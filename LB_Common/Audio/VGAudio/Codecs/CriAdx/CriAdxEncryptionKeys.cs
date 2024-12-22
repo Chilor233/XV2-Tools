@@ -27,7 +27,9 @@ namespace VGAudio.Codecs.CriAdx
             683461999,
             268736153152,
             145552191146490718,
-            4867249871962584729
+            4867249871962584729,
+            // CHUNITHM NEW (AC)
+            32931609366120192       // 6615518E8ECED447
         };
 
         private static readonly CriAdxKey[] LcgParameters =
